@@ -18,7 +18,7 @@ if len(dni) == 9: (LONXITUDE)
    else:
       raise ValueError ("Non ten letra ao final")
 else:
-   raise ValueError ("Lonxitude Incorrecta)
+   raise ValueError ("Lonxitude Incorrecta")
 
 
 

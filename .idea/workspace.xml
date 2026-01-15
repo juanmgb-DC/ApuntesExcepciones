@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8e532-1fd3-4b15-92cc-cd8dd4f0cfd0" name="Changes" comment="Commit 2 - Comprobar DNI">
-      <change afterPath="$PROJECT_DIR$/Nuss.py" afterDir="false" />
+    <list default="true" id="8be8e532-1fd3-4b15-92cc-cd8dd4f0cfd0" name="Changes" comment="Commit 4 - Ficheros">
+      <change afterPath="$PROJECT_DIR$/FICHEROS/FicheirosBinarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excepciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Excepciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FICHEROS/Ficheros.py" beforeDir="false" afterPath="$PROJECT_DIR$/FICHEROS/Ficheros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +48,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.FicheirosBinarios.executor": "Run",
+    "Python.Ficheros.executor": "Run",
     "Python.Nuss.executor": "Run",
+    "Python.ficheros.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FICHEROS" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,12 +93,30 @@
       <option name="project" value="LOCAL" />
       <updated>1768306453443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit 3 - Nuss">
+      <option name="closed" value="true" />
+      <created>1768398191516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768398191517</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit 4 - Ficheros">
+      <option name="closed" value="true" />
+      <created>1768484123806</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768484123806</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1 - Inicio" />
     <MESSAGE value="Commit 2 - Comprobar DNI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 2 - Comprobar DNI" />
+    <MESSAGE value="Commit 3 - Nuss" />
+    <MESSAGE value="Commit 4 - Ficheros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 4 - Ficheros" />
   </component>
 </project>
